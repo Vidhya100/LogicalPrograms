@@ -23,8 +23,8 @@
             //PrimeNumber.CheckPrimeNumber();
 
             //branch name - StopWatch_UC6
-            //StopWatch stopwatch = new StopWatch();
-            //stopwatch.CollapseTime();
+            StopWatch stopwatch = new StopWatch();
+            stopwatch.CollapseTime();
         }
     }
 }
