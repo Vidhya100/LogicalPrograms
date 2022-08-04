@@ -5,14 +5,26 @@
             
         public static void Main(string[] args)
         {
-            fibonasi.CalculateFibonaciiSeries();
-            PerfectNumber.CalculatePerfectNumber();
-            ReverseNumber.Reverse();
-            CuponNumbers.DinstinctCuponNumbers();
-            PrimeNumber.CheckPrimeNumber();
+            //following api's implemented per branch 
 
-            StopWatch stopwatch = new StopWatch();
-            stopwatch.CollapseTime();
+            //branch name - fibonacci_UC2
+            //fibonasi.CalculateFibonaciiSeries();
+
+            //branch name - PerfectNumber_UC1
+            //PerfectNumber.CalculatePerfectNumber();
+
+            //branch name - ReverseNumber_UC4
+            //ReverseNumber.Reverse();
+
+            //branch name - CuponNumbers_UC5
+            //CuponNumbers.DinstinctCuponNumbers();
+
+            //branch name - PrimeNumber_UC3
+            //PrimeNumber.CheckPrimeNumber();
+
+            //branch name - StopWatch_UC6
+            //StopWatch stopwatch = new StopWatch();
+            //stopwatch.CollapseTime();
         }
     }
 }
