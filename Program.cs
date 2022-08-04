@@ -17,7 +17,7 @@
             //ReverseNumber.Reverse();
 
             //branch name - CuponNumbers_UC5
-            //CuponNumbers.DinstinctCuponNumbers();
+            CuponNumbers.DinstinctCuponNumbers();
 
             //branch name - PrimeNumber_UC3
             //PrimeNumber.CheckPrimeNumber();
