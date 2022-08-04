@@ -14,7 +14,7 @@
             //PerfectNumber.CalculatePerfectNumber();
 
             //branch name - ReverseNumber_UC4
-            //ReverseNumber.Reverse();
+            ReverseNumber.Reverse();
 
             //branch name - CuponNumbers_UC5
             //CuponNumbers.DinstinctCuponNumbers();
