@@ -20,7 +20,7 @@
             //CuponNumbers.DinstinctCuponNumbers();
 
             //branch name - PrimeNumber_UC3
-            //PrimeNumber.CheckPrimeNumber();
+            PrimeNumber.CheckPrimeNumber();
 
             //branch name - StopWatch_UC6
             //StopWatch stopwatch = new StopWatch();
