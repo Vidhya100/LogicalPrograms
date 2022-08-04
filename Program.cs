@@ -7,7 +7,7 @@
         {
             //following api's implemented per branch 
 
-            //branch name - fibonacci_UC2
+            //branch name - fibonacciSeries_UC2
             //fibonasi.CalculateFibonaciiSeries();
 
             //branch name - PerfectNumber_UC1
