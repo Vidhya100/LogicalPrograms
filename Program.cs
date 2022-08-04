@@ -8,7 +8,7 @@
             //following api's implemented per branch 
 
             //branch name - fibonacciSeries_UC2
-            //fibonasi.CalculateFibonaciiSeries();
+            fibonasi.CalculateFibonaciiSeries();
 
             //branch name - PerfectNumber_UC1
             //PerfectNumber.CalculatePerfectNumber();
