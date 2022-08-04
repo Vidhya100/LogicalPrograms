@@ -11,7 +11,7 @@
             //fibonasi.CalculateFibonaciiSeries();
 
             //branch name - PerfectNumber_UC1
-            //PerfectNumber.CalculatePerfectNumber();
+            PerfectNumber.CalculatePerfectNumber();
 
             //branch name - ReverseNumber_UC4
             //ReverseNumber.Reverse();
